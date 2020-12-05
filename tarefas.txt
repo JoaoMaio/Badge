@@ -1,0 +1,15 @@
+Tarefas:
+	1. Aplicar um processo de desenvolvimento de software a ser definido pelo grupo
+	2. Especificação dos requisitos
+		a. Requisitos funcionais
+		b. Requisitos não funcionais
+
+	3. Design de software
+		a. Modelação do Software
+			i. Diagramas de casos de uso
+			ii. Diagramas de classes
+			iii. Diagramas de atividades
+			iv. Diagrama de sequência
+				b. Arquitetura
+				c. Wireframes
+				d. Mockups
