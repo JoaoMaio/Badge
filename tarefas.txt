@@ -3,7 +3,7 @@ Tarefas do Projeto:
 	1. Aplicar um processo de desenvolvimento de software a ser definido pelo grupo
 	2. Especificação dos requisitos
 		a. Requisitos funcionais(quase finalizado)
-		b. Requisitos não funcionais
+		b. Requisitos não funcionais(quase finalizado)
 
 	3. Design de software
 		a. Modelação do Software
